@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ahkang02 
+- 👋 Hi, I’m Zhi Hong
 - 👀 I’m interested in diving deep into the world of technology
-- 🌱 I’m currently taking Diploma In Information Technology from TARUC
+- 🌱 I’m currently taking Diploma In Information Technology from Tunku Abdul Rahman University College
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me : Email ( ahkang02@outlook.com )
+- 📫 How to reach me : Email ahkang02@outlook.com
 
 <!---
 ahkang02/ahkang02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
