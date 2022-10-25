@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zhi Hong
 - 👀 I’m interested in diving deep into the world of technology
-- 🌱 I’m currently taking Diploma In Information Technology from Tunku Abdul Rahman University College
+- 🌱 I’m currently taking Bachelor of Computer Science (Honours) in Software Engineering from Tunku Abdul Rahman University College
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me : Email ahkang02@outlook.com
 
