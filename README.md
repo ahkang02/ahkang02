@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Zhi Hong
-- 👀 I’m interested in diving deep into the world of technology
-- 🌱 I’m currently taking Bachelor of Computer Science (Honours) in Software Engineering from Tunku Abdul Rahman University College
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me : Email ahkang02@outlook.com
+# Hi, I'm Zhi Hong👨‍💻
 
-<!---
-ahkang02/ahkang02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+Hi, I'm Chong Zhi Hong, a 21-year-old student currently pursuing a Bachelor of (Honours) in Software Engineering at Tunku Abdul Rahman University of Management and Technology. I have a keen interest in software development and enjoy learning new programming languages and frameworks.
+
+## Contact
+
+- 📧 Email: ahkang02@outlook.com
+- 💼 LinkedIn: https://www.linkedin.com/in/ahkang02/
+
+## Education
+
+- Bachelor of (Honours) in Software Engineering, Tunku Abdul Rahman University of Management and Technology
+- Diploma in Information Technology, Tunku Abdul Rahman University of Management and Technology
