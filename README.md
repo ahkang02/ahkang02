@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I'm Chong Zhi Hong, a 21-year-old student currently pursuing a Bachelor of (Honours) in Software Engineering at Tunku Abdul Rahman University of Management and Technology. I have a keen interest in software development and enjoy learning new programming languages and frameworks. 🤓💻
+Hi, I'm Chong Zhi Hong, a 22-year-old student currently pursuing a Bachelor of (Honours) in Software Engineering at Tunku Abdul Rahman University of Management and Technology. I have a keen interest in software development and enjoy learning new programming languages and frameworks. 🤓💻
 
 ## Skills
 
